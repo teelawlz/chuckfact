@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Chuck Fact App",
+  "name": "Chuck Norris Fact Thing",
   "icons": [
     {
       "src": "favicon.ico",

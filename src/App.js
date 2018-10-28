@@ -10,7 +10,6 @@ import {
   AppContent,
   AppButton
 } from './components';
-import './App.css';
 import { ChuckFactFetcher } from './chuckfetcher';
 
 // Ugly way to get rid of html entities in responses
