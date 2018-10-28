@@ -7,7 +7,10 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4",
-    "styled-components": "^4.0.2"
+    "cryptiles": ">=4.1.2",
+    "styled-components": "^4.0.2",
+    "url-parse": ">=1.4.3",
+    "macaddress": ">=0.2.9"
   },
   "scripts": {
     "start": "react-scripts start",
